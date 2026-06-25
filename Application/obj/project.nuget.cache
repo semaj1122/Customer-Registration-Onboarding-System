@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aynptuh6VKY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\e86923\\source\\repos\\Customer Registration & Onboarding System\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\e86923\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

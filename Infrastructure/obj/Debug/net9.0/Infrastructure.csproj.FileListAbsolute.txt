@@ -1,0 +1,17 @@
+C:\Users\e86923\source\repos\Customer Registration & Onboarding System\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\e86923\source\repos\Customer Registration & Onboarding System\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e86923\source\repos\Customer Registration & Onboarding System\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\e86923\source\repos\Customer Registration & Onboarding System\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Users\e86923\source\repos\Customer Registration & Onboarding System\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\e86923\source\repos\Customer Registration & Onboarding System\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Users\e86923\source\repos\Customer Registration & Onboarding System\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\e86923\source\repos\Customer Registration & Onboarding System\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\e86923\source\repos\Customer Registration & Onboarding System\Infrastructure\bin\Debug\net9.0\Application.dll
+C:\Users\e86923\source\repos\Customer Registration & Onboarding System\Infrastructure\bin\Debug\net9.0\Domain.dll
+C:\Users\e86923\source\repos\Customer Registration & Onboarding System\Infrastructure\bin\Debug\net9.0\Application.pdb
+C:\Users\e86923\source\repos\Customer Registration & Onboarding System\Infrastructure\bin\Debug\net9.0\Domain.pdb
+C:\Users\e86923\source\repos\Customer Registration & Onboarding System\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\e86923\source\repos\Customer Registration & Onboarding System\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Users\e86923\source\repos\Customer Registration & Onboarding System\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Users\e86923\source\repos\Customer Registration & Onboarding System\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Users\e86923\source\repos\Customer Registration & Onboarding System\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
